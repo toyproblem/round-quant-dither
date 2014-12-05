@@ -1,6 +1,7 @@
 [
     "https://api.github.com/repos/flot/flot/contents/jquery.flot.symbol.js",
-    "main.coffee",
+    "ruler.coffee",
+    "ramp.coffee",
     "main.html",
     "main.css"
 ]
